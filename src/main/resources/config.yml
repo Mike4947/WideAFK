@@ -1,0 +1,20 @@
+# Time (in seconds) before a player is marked as AFK
+afk-timeout: 60
+
+# Interval for paying players (in seconds)
+pay-interval: 60
+
+# Money earned per interval
+earn-amount: 10.0
+
+# Choose between: minutes, hours, days, minecraft-days
+earn-mode: minutes
+
+# Should messages be shown on screen when going AFK?
+show-title: true
+
+# Title text when AFK
+afk-title: "&cYou are now AFK"
+
+# Subtitle
+afk-subtitle: "&7You are earning money while AFK..."
