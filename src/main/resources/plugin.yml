@@ -1,0 +1,8 @@
+name: WideAFK
+version: '1.0'
+main: com.exemple.wideAFK.WideAFK
+api-version: '1.21'
+prefix: REPORT-GUI
+load: STARTUP
+authors: [ Mike4947 ]
+description: A report plugin with a simple GUI
